@@ -1,2 +1,3 @@
-# Custom Minesweeper
- Implemented an animated custom version of Minesweeper game by collaborating with 3 other group partners following Agile Methodology and SCRUM making use of MVC architecture, OOP, JavaFX, and Test-Driven Development. Streamlined collaboration using GitHub Version Control, resolved merge conflicts, and developed test suite using Junit.
+# Project 6 Minesweeper by Luke Genova, Taoseef Aziz, Matteus McKinley Wilson, Amimul Ehsan Zoha:
+
+Make sure to look through every header comment of each class in the source code to get a good idea as to how each works. Especially look at the header comments for the Minesweeper class since it has most of the details as to how to play the game, how to start playing the game, and what to look out for when playing it.
